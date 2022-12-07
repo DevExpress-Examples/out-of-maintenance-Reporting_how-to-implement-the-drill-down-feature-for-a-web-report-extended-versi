@@ -2,7 +2,7 @@
 using System.Web.UI;
 using DevExpress.XtraReports.UI;
 using DevExpress.XtraReports.Web;
-using DevExpress.Web.ASPxClasses;
+using DevExpress.Web;
 using System.Collections.Generic;
 
 public partial class _Default : Page {

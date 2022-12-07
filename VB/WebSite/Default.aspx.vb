@@ -3,7 +3,7 @@ Imports System
 Imports System.Web.UI
 Imports DevExpress.XtraReports.UI
 Imports DevExpress.XtraReports.Web
-Imports DevExpress.Web.ASPxClasses
+Imports DevExpress.Web
 Imports System.Collections.Generic
 
 Partial Public Class _Default
