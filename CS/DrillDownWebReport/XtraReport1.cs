@@ -10,7 +10,7 @@ namespace DrillDownWebReport {
             InitializeComponent();
         }
 
-        private void lbShowHide_BeforePrint(object sender, System.Drawing.Printing.PrintEventArgs e) {
+        private void lbShowHide_BeforePrint(object sender, CancelEventArgs e) {
             lbShowHide.Text = DetailReport.DrillDownExpanded ? "Hide Details" : "Show Details";
         }
 
