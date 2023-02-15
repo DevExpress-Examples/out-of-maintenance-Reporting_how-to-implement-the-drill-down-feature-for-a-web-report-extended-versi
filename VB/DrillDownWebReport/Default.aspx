@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Home Page" Language="vb" AutoEventWireup="true"
+<%@ Page Title="Home Page" Language="VB" AutoEventWireup="true"
     CodeBehind="Default.aspx.vb" Inherits="DrillDownWebReport._Default" %>
 
 <%@ Register assembly="DevExpress.XtraReports.v16.1.Web, Version=16.1.17.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" 
@@ -16,3 +16,4 @@
     </form>
 </body>
 </html>
+
