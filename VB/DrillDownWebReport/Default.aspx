@@ -1,7 +1,7 @@
 <%@ Page Title="Home Page" Language="VB" AutoEventWireup="true"
     CodeBehind="Default.aspx.vb" Inherits="DrillDownWebReport._Default" %>
 
-<%@ Register assembly="DevExpress.XtraReports.v22.2.Web.WebForms, Version=22.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" 
+<%@ Register assembly="DevExpress.XtraReports.v22.2.Web.WebForms, Version=22.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" 
     namespace="DevExpress.XtraReports.Web" tagprefix="dx" %>
 
 <!DOCTYPE html">
